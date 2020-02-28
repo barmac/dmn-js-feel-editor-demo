@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dmn-js": "^8.0.1",
-    "dmn-js-syntax-highlighting": "file:../dmn-js-syntax-highlighting",
+    "dmn-js-syntax-highlighting": "barmac/dmn-js-syntax-highlighting",
     "sirv-cli": "^0.4.4"
   }
 }
